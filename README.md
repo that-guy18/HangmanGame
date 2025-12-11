@@ -18,7 +18,7 @@ This is a simple implementation of the classic Hangman game using Python. The ga
 
 1. **Clone this repository or download the script:**
     ```bash
-    git clone https://github.com/that-guy18/CodeAlpha_HangmanGame.git
+    git clone https://github.com/that-guy18/HangmanGame.git
     cd game
     ```
 
